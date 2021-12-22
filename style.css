@@ -2,3 +2,16 @@ h1 {
   color: red;
   font-size: large;
 }
+
+ul {
+  padding-left: 24px;
+}
+
+input {
+  color: azure;
+  background-color: indigo;
+  height: 34px;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding-left: 8px;
+}
