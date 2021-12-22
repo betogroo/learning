@@ -15,3 +15,12 @@ input {
   border-radius: 8px;
   padding-left: 8px;
 }
+
+button {
+  background-color: indigo;
+  color: white;
+  height: 34px;
+  min-width: 128px;
+  padding: 4px;
+  cursor: pointer;
+}
